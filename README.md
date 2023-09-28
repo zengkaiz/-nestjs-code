@@ -22,4 +22,6 @@ Nest实现AOP的方式： 有五种，包括 Middleware、Guard、Pipe、Interce
 可以对抛出的异常做处理，返回对应的响应， 实现 ExceptionFilter 接口，实现 catch 方法，就可以拦截异常  
 #### 全部装饰器
 [Nest 全部装饰器](https://github.com/zengkaiz/nestjs-code/tree/main/all-decorator)  
+#### Metadata 和 Reflector
+[Metadata 和 Reflector](https://github.com/zengkaiz/nestjs-code/tree/main/argument-host)  
 
