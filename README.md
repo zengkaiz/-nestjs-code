@@ -24,4 +24,6 @@ Nest实现AOP的方式： 有五种，包括 Middleware、Guard、Pipe、Interce
 [Nest 全部装饰器](https://github.com/zengkaiz/nestjs-code/tree/main/all-decorator)  
 #### Metadata 和 Reflector
 [Metadata 和 Reflector](https://github.com/zengkaiz/nestjs-code/tree/main/argument-host)  
+#### Module 和 Provider 循环依赖
+[Module 和 Provider 循环依赖](https://github.com/zengkaiz/nestjs-code/tree/main/circular-dependency)  
 
