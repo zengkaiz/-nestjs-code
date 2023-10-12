@@ -29,4 +29,4 @@ Nest实现AOP的方式： 有五种，包括 Middleware、Guard、Pipe、Interce
 #### 创建动态模块
 [创建动态模块](https://github.com/zengkaiz/nestjs-code/tree/main/dynamic-module)  
 #### Nest 和 Express 的关系
-[创建动态模块](https://github.com/zengkaiz/nestjs-code/tree/main/fastify-test)  
+[Nest 和 Express 的关系](https://github.com/zengkaiz/nestjs-code/tree/main/fastify-test)  
