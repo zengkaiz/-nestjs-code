@@ -34,3 +34,5 @@ Nest实现AOP的方式： 有五种，包括 Middleware、Guard、Pipe、Interce
 [Nest 的 Middleware](https://github.com/zengkaiz/nestjs-code/tree/main/middleware-test)  
 #### Interceptor
 [Interceptor](https://github.com/zengkaiz/nestjs-code/tree/main/interceptor-test)  
+#### Pipe 和 自定义Pipe
+[Pipe 和 自定义Pipe](https://github.com/zengkaiz/nestjs-code/tree/main/pipe-test) 
