@@ -36,3 +36,7 @@ Nest实现AOP的方式： 有五种，包括 Middleware、Guard、Pipe、Interce
 [Interceptor](https://github.com/zengkaiz/nestjs-code/tree/main/interceptor-test)  
 #### Pipe 和 自定义Pipe
 [Pipe 和 自定义Pipe](https://github.com/zengkaiz/nestjs-code/tree/main/pipe-test) 
+#### 自定义exception
+[自定义exception](https://github.com/zengkaiz/nestjs-code/tree/mainexception-filter-test) 
+#### Express 使用 multer 实现文件上传
+[自定义exception](https://github.com/zengkaiz/nestjs-code/tree/multer-test) 
